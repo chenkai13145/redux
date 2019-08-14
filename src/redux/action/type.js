@@ -1,0 +1,6 @@
+const POST_LIST="POST_LIST"
+const POST_COMMET="POST_COMMET"
+export{
+    POST_LIST,
+    POST_COMMET
+}
